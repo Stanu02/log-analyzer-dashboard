@@ -1,0 +1,5 @@
+INFO Server started
+ERROR Database connection failed
+WARNING CPU usage high
+ERROR User authentication failed
+INFO Backup completed
