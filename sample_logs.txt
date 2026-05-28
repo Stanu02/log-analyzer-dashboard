@@ -1,0 +1,12 @@
+2026-05-28 10:01:01 INFO Server started successfully
+2026-05-28 10:01:05 INFO Database connection established
+2026-05-28 10:02:10 WARNING High memory usage detected
+2026-05-28 10:03:22 ERROR Failed to connect to Redis cache
+2026-05-28 10:03:30 ERROR Timeout while calling authentication service
+2026-05-28 10:04:11 INFO User login successful
+2026-05-28 10:05:45 WARNING CPU usage above 75%
+2026-05-28 10:06:50 INFO Background job started
+2026-05-28 10:07:33 ERROR Disk space critically low
+2026-05-28 10:08:10 INFO Backup completed successfully
+2026-05-28 10:09:55 WARNING API response time slow
+2026-05-28 10:10:20 INFO Cleanup job finished
